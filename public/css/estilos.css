@@ -1,0 +1,12 @@
+.mensaje {
+    padding: 6px;
+}
+
+.scroll {
+    overflow-y: auto;
+    height: 300px;
+}
+
+.width {
+    width: 100%;
+}
